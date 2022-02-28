@@ -11,7 +11,9 @@ DC-Motor poles and zeros, stablity, step response, impulse response, bode plot, 
 
 ![plot 2-2](plots/P2-2.jpg)
 
-![plot 4-1](plots/P4-1.jpg)
+![plot 4-1-b](plots/P4-1-b.jpg)
+
+![plot 4-2](plots/P4-2.jpg)
 
 ..
 
